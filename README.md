@@ -1,10 +1,12 @@
 # dotfiles
-my arch configuration
+my arch configuration files
 
 ## System Info
 * **OS**: Arch
-* **Shell**: bash
+* **WM**: i3
 * **Terminal**: Alacritty
+* **Compositor**: Picom
+* **Notifications**: Dunst
 * **File Manager**: Thunar
 * **Bar**: Polybar
 * **Search Bar**: Rofi
